@@ -7,8 +7,6 @@ Here due to my system compatibility is very low. So I havent done hyperparameter
 
 
 
-
-
 # Testing values
 
 # Rainy Day: 
@@ -31,15 +29,6 @@ Here due to my system compatibility is very low. So I havent done hyperparameter
 * Now for the final step. Run the app
 * python app.py
 
-# Some screenshots of the app
-* Landing Page:
-![Landing Page](githubimgs/landingpage.png)
-* About Rainy Brain:
-![About](githubimgs/about.png)
-* Predictor:
-![Predictor](githubimgs/predictor.png)
-* Result:
-![Result](githubimgs/result.png)
 
 # Workflow
 
